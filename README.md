@@ -1,1 +1,2 @@
 # globalimport-v2
+Ese proyecto es de una empresa fictia llamada Global import la cual trata sobre importar diferentes servicios tanto tecnologicos como de indumentaria, etc. En lo cual se dara a conocer a traves de la siguiente pagina web la cual mostrara los servicios que se prestan, darla a conocer a potenciales clientes y llamar su atención para que se contacten si les interesa algun producto de lo que se ofreceran.
