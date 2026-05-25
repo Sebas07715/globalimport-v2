@@ -161,6 +161,33 @@ img {
   max-width: 48rem;
 }
 
+.section.registro {
+  background: rgba(255, 255, 255, 0.92);
+  border-radius: 1.5rem;
+  box-shadow: 0 20px 40px rgba(15, 23, 42, 0.08);
+}
+
+.section.registro .container {
+  padding: 2rem 0;
+}
+
+.section.registro form {
+  margin-top: 1.5rem;
+}
+
+.section.registro label {
+  color: var(--text);
+}
+
+.section.registro textarea {
+  width: 100%;
+  padding: 0.95rem 1rem;
+  border: 1px solid var(--border);
+  border-radius: 0.75rem;
+  font: inherit;
+  resize: vertical;
+}
+
 .cards {
   display: grid;
   gap: 1.5rem;
